@@ -10,7 +10,7 @@ export const NavContainer = styled.div`
     rgba(13, 30, 51, 0) 100%
   );
   width: 100%;
-  height: 350px;
+  height: 100vh;
   padding: 25px;
 `;
 export const NavFooter = styled.div`
