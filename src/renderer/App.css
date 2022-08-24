@@ -2,8 +2,8 @@
   font-family: Yekan Bakh;
   font-style: normal;
   font-weight: 100;
-  src: url('./assets/fonts/woff/YekanBakh-thin.woff') format('woff'),
-    url('./assets/fonts/woff2/YekanBakh-thin.woff2') format('woff2');
+  src: url('./assets/fonts/woff/YekanBakh-Thin.woff') format('woff'),
+    url('./assets/fonts/woff2/YekanBakh-Thin.woff2') format('woff2');
 }
 
 @font-face {
